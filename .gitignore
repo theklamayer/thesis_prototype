@@ -111,3 +111,5 @@ InitTestScene*.unity*
 .DS_Store
 .utmp/
 *.apk
+
+*_BurstDebugInformation_DoNotShip/
