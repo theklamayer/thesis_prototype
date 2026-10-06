@@ -8,7 +8,7 @@ Human-Computer Interaction group, Technische Universität Berlin, 2025.
 The prototype was used in a user study to examine how the **visual realism** of a virtual
 operating room affects task performance, spatial orientation and sense of presence.
 
-![Volumetric vs. simplified operating room](docs/images/rooms_comparison.png)
+<table> <tr> <th>Volumetric room</th> <th>Simplified room</th> </tr> <tr> <td><img src="docs/images/room_volumetric_overview.png" alt="Volumetric operating room with numbered objects"></td> <td><img src="docs/images/room_simplified_overview.png" alt="Simplified operating room with numbered objects"></td> </tr> </table>
 
 ---
 
